@@ -1,0 +1,49 @@
+2023-05-28 17:34:34,757INFO [root] [base.py(__init__:19)] - 初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="4554b9cba6c00d04d43678620f98374c")>
+2023-05-28 17:34:34,758INFO [root] [base.py(base_get_img:48)] - 正在截图
+2023-05-28 17:34:37,232INFO [root] [base.py(base_click:55)] - 正在点击元素：('xpath', '//*[@id="app-guide"]/div/div/div[2]/span')
+2023-05-28 17:34:37,233INFO [root] [base.py(base_get_element:30)] - 正在查找元素('xpath', '//*[@id="app-guide"]/div/div/div[2]/span')
+2023-05-28 17:34:37,267INFO [root] [base.py(base_get_img:48)] - 正在截图
+2023-05-28 17:34:39,487INFO [root] [base.py(base_get_cookice:39)] - 正在使用cookice进行登录
+2023-05-28 17:34:39,897INFO [root] [base.py(base_input:60)] - 正在给元素：('id', 'baidu_translate_input')输入内容：spider
+2023-05-28 17:34:39,897INFO [root] [base.py(base_get_element:30)] - 正在查找元素('id', 'baidu_translate_input')
+2023-05-28 17:34:39,919INFO [root] [base.py(base_input:63)] - 正在给元素：('id', 'baidu_translate_input')进行清空
+2023-05-28 17:34:39,963INFO [root] [base.py(base_input:65)] - 正在给元素：('id', 'baidu_translate_input')输入内容
+2023-05-28 17:34:39,963INFO [root] [base.py(base_click:55)] - 正在点击元素：('id', 'translate-button')
+2023-05-28 17:34:39,963INFO [root] [base.py(base_get_element:30)] - 正在查找元素('id', 'translate-button')
+2023-05-28 17:34:41,160INFO [root] [base.py(base_input:60)] - 正在给元素：('xpath', '//*[@id="noteContainer"]/div/div[1]/div[1]/textarea')输入内容：测试结果应该是蜘蛛
+2023-05-28 17:34:41,160INFO [root] [base.py(base_get_element:30)] - 正在查找元素('xpath', '//*[@id="noteContainer"]/div/div[1]/div[1]/textarea')
+2023-05-28 17:34:41,190INFO [root] [base.py(base_input:63)] - 正在给元素：('xpath', '//*[@id="noteContainer"]/div/div[1]/div[1]/textarea')进行清空
+2023-05-28 17:34:41,232INFO [root] [base.py(base_input:65)] - 正在给元素：('xpath', '//*[@id="noteContainer"]/div/div[1]/div[1]/textarea')输入内容
+2023-05-28 17:34:41,232INFO [root] [base.py(base_click:55)] - 正在点击元素：('xpath', '//*[@id="noteContainer"]/div/div[2]/a')
+2023-05-28 17:34:41,232INFO [root] [base.py(base_get_element:30)] - 正在查找元素('xpath', '//*[@id="noteContainer"]/div/div[2]/a')
+2023-05-28 17:34:41,271INFO [root] [base.py(base_get_img:48)] - 正在截图
+2023-05-28 17:34:43,500INFO [root] [base.py(base_input:60)] - 正在给元素：('id', 'baidu_translate_input')输入内容：spring
+2023-05-28 17:34:43,501INFO [root] [base.py(base_get_element:30)] - 正在查找元素('id', 'baidu_translate_input')
+2023-05-28 17:34:43,518INFO [root] [base.py(base_input:63)] - 正在给元素：('id', 'baidu_translate_input')进行清空
+2023-05-28 17:34:43,573INFO [root] [base.py(base_input:65)] - 正在给元素：('id', 'baidu_translate_input')输入内容
+2023-05-28 17:34:43,573INFO [root] [base.py(base_click:55)] - 正在点击元素：('id', 'translate-button')
+2023-05-28 17:34:43,573INFO [root] [base.py(base_get_element:30)] - 正在查找元素('id', 'translate-button')
+2023-05-28 17:34:44,686INFO [root] [base.py(base_input:60)] - 正在给元素：('xpath', '//*[@id="noteContainer"]/div/div[1]/div[1]/textarea')输入内容：测试结果应该是春天
+2023-05-28 17:34:44,686INFO [root] [base.py(base_get_element:30)] - 正在查找元素('xpath', '//*[@id="noteContainer"]/div/div[1]/div[1]/textarea')
+2023-05-28 17:34:44,708INFO [root] [base.py(base_input:63)] - 正在给元素：('xpath', '//*[@id="noteContainer"]/div/div[1]/div[1]/textarea')进行清空
+2023-05-28 17:34:44,741INFO [root] [base.py(base_input:65)] - 正在给元素：('xpath', '//*[@id="noteContainer"]/div/div[1]/div[1]/textarea')输入内容
+2023-05-28 17:34:44,741INFO [root] [base.py(base_click:55)] - 正在点击元素：('xpath', '//*[@id="noteContainer"]/div/div[2]/a')
+2023-05-28 17:34:44,741INFO [root] [base.py(base_get_element:30)] - 正在查找元素('xpath', '//*[@id="noteContainer"]/div/div[2]/a')
+2023-05-28 17:34:44,773INFO [root] [base.py(base_get_img:48)] - 正在截图
+2023-05-28 17:34:47,013INFO [root] [base.py(base_input:60)] - 正在给元素：('id', 'baidu_translate_input')输入内容：python
+2023-05-28 17:34:47,013INFO [root] [base.py(base_get_element:30)] - 正在查找元素('id', 'baidu_translate_input')
+2023-05-28 17:34:47,031INFO [root] [base.py(base_input:63)] - 正在给元素：('id', 'baidu_translate_input')进行清空
+2023-05-28 17:34:47,096INFO [root] [base.py(base_input:65)] - 正在给元素：('id', 'baidu_translate_input')输入内容
+2023-05-28 17:34:47,096INFO [root] [base.py(base_click:55)] - 正在点击元素：('id', 'translate-button')
+2023-05-28 17:34:47,096INFO [root] [base.py(base_get_element:30)] - 正在查找元素('id', 'translate-button')
+2023-05-28 17:34:48,193INFO [root] [base.py(base_input:60)] - 正在给元素：('xpath', '//*[@id="noteContainer"]/div/div[1]/div[1]/textarea')输入内容：测试结果应该是蟒蛇
+2023-05-28 17:34:48,193INFO [root] [base.py(base_get_element:30)] - 正在查找元素('xpath', '//*[@id="noteContainer"]/div/div[1]/div[1]/textarea')
+2023-05-28 17:34:48,214INFO [root] [base.py(base_input:63)] - 正在给元素：('xpath', '//*[@id="noteContainer"]/div/div[1]/div[1]/textarea')进行清空
+2023-05-28 17:34:48,246INFO [root] [base.py(base_input:65)] - 正在给元素：('xpath', '//*[@id="noteContainer"]/div/div[1]/div[1]/textarea')输入内容
+2023-05-28 17:34:48,247INFO [root] [base.py(base_click:55)] - 正在点击元素：('xpath', '//*[@id="noteContainer"]/div/div[2]/a')
+2023-05-28 17:34:48,247INFO [root] [base.py(base_get_element:30)] - 正在查找元素('xpath', '//*[@id="noteContainer"]/div/div[2]/a')
+2023-05-28 17:34:48,274INFO [root] [base.py(base_get_img:48)] - 正在截图
+2023-05-28 17:34:50,480INFO [root] [base.py(base_click:55)] - 正在点击元素：('xpath', '//*[@id="main-outer"]/div/div/div[1]/div[1]/div[4]/a[1]/span')
+2023-05-28 17:34:50,480INFO [root] [base.py(base_get_element:30)] - 正在查找元素('xpath', '//*[@id="main-outer"]/div/div/div[1]/div[1]/div[4]/a[1]/span')
+2023-05-28 17:34:50,573INFO [root] [base.py(base_switch_windows:86)] - 正在切换窗口...
+2023-05-28 17:34:50,575INFO [root] [base.py(base_get_img:48)] - 正在截图

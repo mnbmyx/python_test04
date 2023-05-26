@@ -1,0 +1,15 @@
+INFO     root:base.py:75 正在给元素：('id', 'baidu_translate_input')输入内容：spring
+INFO     root:base.py:30 正在查找元素('id', 'baidu_translate_input')
+INFO     root:base.py:78 正在给元素：('id', 'baidu_translate_input')进行清空
+INFO     root:base.py:80 正在给元素：('id', 'baidu_translate_input')输入内容
+INFO     root:base.py:63 正在截图
+INFO     root:base.py:70 正在点击元素：('id', 'translate-button')
+INFO     root:base.py:30 正在查找元素('id', 'translate-button')
+INFO     root:base.py:75 正在给元素：('xpath', '//*[@id="noteContainer"]/div/div[1]/div[1]/textarea')输入内容：测试结果应该是春天
+INFO     root:base.py:30 正在查找元素('xpath', '//*[@id="noteContainer"]/div/div[1]/div[1]/textarea')
+INFO     root:base.py:78 正在给元素：('xpath', '//*[@id="noteContainer"]/div/div[1]/div[1]/textarea')进行清空
+INFO     root:base.py:80 正在给元素：('xpath', '//*[@id="noteContainer"]/div/div[1]/div[1]/textarea')输入内容
+INFO     root:base.py:63 正在截图
+INFO     root:base.py:70 正在点击元素：('xpath', '//*[@id="noteContainer"]/div/div[2]/a')
+INFO     root:base.py:30 正在查找元素('xpath', '//*[@id="noteContainer"]/div/div[2]/a')
+INFO     root:base.py:63 正在截图

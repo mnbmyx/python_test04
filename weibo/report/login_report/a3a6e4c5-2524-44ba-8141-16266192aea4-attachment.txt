@@ -1,0 +1,15 @@
+INFO     root:base.py:100 正在切换窗口
+INFO     root:base.py:68 正在给元素：('id', 'loginname')输入内容：13267872396
+INFO     root:base.py:31 正在查找元素('id', 'loginname')
+INFO     root:base.py:71 正在给元素：('id', 'loginname')进行清空
+INFO     root:base.py:73 正在给元素：('id', 'loginname')输入内容
+INFO     root:base.py:68 正在给元素：('xpath', '//*[@id="pl_login_form"]/div/div[3]/div[2]/div/input')输入内容：ma13267878396
+INFO     root:base.py:31 正在查找元素('xpath', '//*[@id="pl_login_form"]/div/div[3]/div[2]/div/input')
+INFO     root:base.py:71 正在给元素：('xpath', '//*[@id="pl_login_form"]/div/div[3]/div[2]/div/input')进行清空
+INFO     root:base.py:73 正在给元素：('xpath', '//*[@id="pl_login_form"]/div/div[3]/div[2]/div/input')输入内容
+INFO     root:base.py:31 正在查找元素('xpath', '//*[@id="pl_login_form"]/div/div[3]/div[6]/a')
+INFO     root:base.py:64 正在点击元素：('xpath', '//*[@id="pl_login_form"]/div/div[3]/div[6]/a')
+INFO     root:base.py:93 正在定位元素：('xpath', '//div[3]/div[1]/p')
+INFO     root:base.py:31 正在查找元素('xpath', '//div[3]/div[1]/p')
+INFO     root:base.py:100 正在切换窗口
+INFO     root:base.py:56 正在截图

@@ -1,0 +1,105 @@
+{
+  "uid" : "45e35d839b1ba262",
+  "name" : "test_01_input[content6]",
+  "fullName" : "test.test_weibo.TestWeibo#test_01_input",
+  "historyId" : "eac527fad5935c04e99e19c6e70e96ff",
+  "time" : {
+    "start" : 1685179274875,
+    "stop" : 1685179279566,
+    "duration" : 4691
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_xunit_setup_class_fixture_TestWeibo",
+    "time" : {
+      "start" : 1685179232129,
+      "stop" : 1685179246520,
+      "duration" : 14391
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "166538f9ebef1a9b",
+      "name" : "log",
+      "source" : "166538f9ebef1a9b.txt",
+      "type" : "text/plain",
+      "size" : 827
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "_xunit_setup_class_fixture_TestWeibo::0",
+    "time" : {
+      "start" : 1685179279567,
+      "stop" : 1685179281774,
+      "duration" : 2207
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test"
+  }, {
+    "name" : "suite",
+    "value" : "test_weibo"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestWeibo"
+  }, {
+    "name" : "host",
+    "value" : "XiaoXin16"
+  }, {
+    "name" : "thread",
+    "value" : "21308-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test.test_weibo"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "content",
+    "value" : "['以下是动漫更新介绍：星期天：斗破苍穹']"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "45e35d839b1ba262.json",
+  "parameterValues" : [ "['以下是动漫更新介绍：星期天：斗破苍穹']" ]
+}

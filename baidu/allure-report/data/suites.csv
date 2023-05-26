@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat May 27 09:47:17 CST 2023","Sat May 27 09:47:25 CST 2023","7911","test","test_baidu","TestBaidu","","","test_01_baidu[python-\u6d4b\u8bd5\u7ed3\u679c\u5e94\u8be5\u662f\u87d2\u86c7]",""
+"passed","Sat May 27 09:47:00 CST 2023","Sat May 27 09:47:09 CST 2023","8703","test","test_baidu","TestBaidu","","","test_01_baidu[spider-\u6d4b\u8bd5\u7ed3\u679c\u5e94\u8be5\u662f\u8718\u86db]",""
+"passed","Sat May 27 09:47:09 CST 2023","Sat May 27 09:47:17 CST 2023","7939","test","test_baidu","TestBaidu","","","test_01_baidu[spring-\u6d4b\u8bd5\u7ed3\u679c\u5e94\u8be5\u662f\u6625\u5929]",""

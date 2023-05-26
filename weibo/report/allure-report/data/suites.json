@@ -1,0 +1,108 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test",
+    "children" : [ {
+      "name" : "test_weibo",
+      "children" : [ {
+        "name" : "TestWeibo",
+        "children" : [ {
+          "name" : "test_01_input[content0]",
+          "uid" : "61a331a40ce6d648",
+          "parentUid" : "cf8a61f35d6268905fbd38c81c4d976b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1685179246520,
+            "stop" : 1685179251336,
+            "duration" : 4816
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "['以下是动漫更新介绍：星期一：星辰变，独步逍遥']" ]
+        }, {
+          "name" : "test_01_input[content1]",
+          "uid" : "2e4d3d0a6bd56efd",
+          "parentUid" : "cf8a61f35d6268905fbd38c81c4d976b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1685179251340,
+            "stop" : 1685179256058,
+            "duration" : 4718
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "['以下是动漫更新介绍：星期二：练气十万年']" ]
+        }, {
+          "name" : "test_01_input[content2]",
+          "uid" : "d2f2563605187d9a",
+          "parentUid" : "cf8a61f35d6268905fbd38c81c4d976b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1685179256066,
+            "stop" : 1685179260774,
+            "duration" : 4708
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "['以下是动漫更新介绍：星期三：妖神记']" ]
+        }, {
+          "name" : "test_01_input[content3]",
+          "uid" : "209157ea710a3f6",
+          "parentUid" : "cf8a61f35d6268905fbd38c81c4d976b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1685179260778,
+            "stop" : 1685179265497,
+            "duration" : 4719
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "['以下是动漫更新介绍：星期四：神印王座，独步逍遥']" ]
+        }, {
+          "name" : "test_01_input[content4]",
+          "uid" : "a016b60bd6685f01",
+          "parentUid" : "cf8a61f35d6268905fbd38c81c4d976b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1685179265501,
+            "stop" : 1685179270176,
+            "duration" : 4675
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "['以下是动漫更新介绍：星期五：完美世界']" ]
+        }, {
+          "name" : "test_01_input[content5]",
+          "uid" : "a208b30c60774dcf",
+          "parentUid" : "cf8a61f35d6268905fbd38c81c4d976b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1685179270180,
+            "stop" : 1685179274872,
+            "duration" : 4692
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "['以下是动漫更新介绍：星期六：斗罗大陆，练气十万年']" ]
+        }, {
+          "name" : "test_01_input[content6]",
+          "uid" : "45e35d839b1ba262",
+          "parentUid" : "cf8a61f35d6268905fbd38c81c4d976b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1685179274875,
+            "stop" : 1685179279566,
+            "duration" : 4691
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "['以下是动漫更新介绍：星期天：斗破苍穹']" ]
+        } ],
+        "uid" : "cf8a61f35d6268905fbd38c81c4d976b"
+      } ],
+      "uid" : "d9432b7d3e0978bb16d4a6aba3068d50"
+    } ],
+    "uid" : "ff2b04dbb9c449a4d40723f51d841925"
+  } ]
+}

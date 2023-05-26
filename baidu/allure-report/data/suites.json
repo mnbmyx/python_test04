@@ -1,0 +1,56 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test",
+    "children" : [ {
+      "name" : "test_baidu",
+      "children" : [ {
+        "name" : "TestBaidu",
+        "children" : [ {
+          "name" : "test_01_baidu[spider-\\u6d4b\\u8bd5\\u7ed3\\u679c\\u5e94\\u8be5\\u662f\\u8718\\u86db]",
+          "uid" : "17ed5c693ca9609f",
+          "parentUid" : "8f5fcc8c3fca49d5ef73096ea44ff7ed",
+          "status" : "passed",
+          "time" : {
+            "start" : 1685152020512,
+            "stop" : 1685152029215,
+            "duration" : 8703
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'spider'", "'测试结果应该是蜘蛛'" ]
+        }, {
+          "name" : "test_01_baidu[spring-\\u6d4b\\u8bd5\\u7ed3\\u679c\\u5e94\\u8be5\\u662f\\u6625\\u5929]",
+          "uid" : "ee40b37562f0b153",
+          "parentUid" : "8f5fcc8c3fca49d5ef73096ea44ff7ed",
+          "status" : "passed",
+          "time" : {
+            "start" : 1685152029220,
+            "stop" : 1685152037159,
+            "duration" : 7939
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'spring'", "'测试结果应该是春天'" ]
+        }, {
+          "name" : "test_01_baidu[python-\\u6d4b\\u8bd5\\u7ed3\\u679c\\u5e94\\u8be5\\u662f\\u87d2\\u86c7]",
+          "uid" : "c823f79b76356ad4",
+          "parentUid" : "8f5fcc8c3fca49d5ef73096ea44ff7ed",
+          "status" : "passed",
+          "time" : {
+            "start" : 1685152037163,
+            "stop" : 1685152045074,
+            "duration" : 7911
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'python'", "'测试结果应该是蟒蛇'" ]
+        } ],
+        "uid" : "8f5fcc8c3fca49d5ef73096ea44ff7ed"
+      } ],
+      "uid" : "8e323a23c23ed40cff55cf11ca8e680f"
+    } ],
+    "uid" : "ff2b04dbb9c449a4d40723f51d841925"
+  } ]
+}

@@ -14,7 +14,6 @@ def url_yml(file, section, key):
         data = yaml.load(f, Loader=yaml.FullLoader)
         return data[section][key]
 
-
 if __name__ == '__main__':
-    value = parse_yml('../config/url.yml', 'bdfyurl', 'url')
+    value = url_yml('../config/url.yml', 'bdfyurl', 'url')
     print(value)

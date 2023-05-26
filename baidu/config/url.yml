@@ -1,2 +1,8 @@
 bdfyurl:
   url: https://fanyi.baidu.com/
+
+File:
+  filename: f'../img/{time.strftime("%Y_%m_%d %H_%M_%S")}.png'
+
+cookices:
+  cookice: 'EY1N1pXNHpXN35PYjI1Mk1uSkNRTk42Z0dmUVNZQk9wNkhrWEZueU56bjMxV2xrSVFBQUFBJCQAAAAAAAAAAAEAAABWBnCHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPdIQmT3SEJkN'

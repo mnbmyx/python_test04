@@ -1,0 +1,8 @@
+WBurl:
+  url: https://weibo.com/newlogin?tabtype=weibo&gid=102803&openLoginLayer=0&url=https%3A%2F%2Fweibo.com%2F
+
+File:
+  filename: f'../img/{time.strftime("%Y_%m_%d %H_%M_%S")}.png'
+
+Service:
+  service: r'C:\python\python3.10\chromedriver.exe'

@@ -1,0 +1,108 @@
+{
+  "uid" : "c823f79b76356ad4",
+  "name" : "test_01_baidu[python-\\u6d4b\\u8bd5\\u7ed3\\u679c\\u5e94\\u8be5\\u662f\\u87d2\\u86c7]",
+  "fullName" : "test.test_baidu.TestBaidu#test_01_baidu",
+  "historyId" : "f838ebed4cc7403c740df7f9b2720f02",
+  "time" : {
+    "start" : 1685152037163,
+    "stop" : 1685152045074,
+    "duration" : 7911
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_xunit_setup_class_fixture_TestBaidu",
+    "time" : {
+      "start" : 1685152006409,
+      "stop" : 1685152020510,
+      "duration" : 14101
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "52a97c75861c570e",
+      "name" : "log",
+      "source" : "52a97c75861c570e.txt",
+      "type" : "text/plain",
+      "size" : 1290
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "_xunit_setup_class_fixture_TestBaidu::0",
+    "time" : {
+      "start" : 1685152045076,
+      "stop" : 1685152047230,
+      "duration" : 2154
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test"
+  }, {
+    "name" : "suite",
+    "value" : "test_baidu"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestBaidu"
+  }, {
+    "name" : "host",
+    "value" : "XiaoXin16"
+  }, {
+    "name" : "thread",
+    "value" : "18844-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test.test_baidu"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "content",
+    "value" : "'python'"
+  }, {
+    "name" : "note",
+    "value" : "'测试结果应该是蟒蛇'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c823f79b76356ad4.json",
+  "parameterValues" : [ "'python'", "'测试结果应该是蟒蛇'" ]
+}

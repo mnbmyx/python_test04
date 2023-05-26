@@ -5,7 +5,6 @@
 """
 from selenium import webdriver
 
-
 class GetDriver(object):
 # 获取单例driver
     driver = None
@@ -16,8 +15,6 @@ class GetDriver(object):
             cls.driver.maximize_window()
             cls.driver.get(url)
         return cls.driver
-
-
 
     @classmethod
     def quit_driver(cls):
